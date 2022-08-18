@@ -1,0 +1,338 @@
+[
+  {
+    "title": "Obergesteln",
+    "image": "ZS_Obergesteln.jpg",
+    "lng": 8.318561,
+    "lat": 46.508566,
+    "type": "ZollmessStation"
+  },
+  {
+    "title": "Ruswil",
+    "image": "ZS_Ruswil.jpg",
+    "lng": 8.091803,
+    "lat": 47.061681,
+    "type": "ZollmessStation"
+  },
+  {
+    "title": "Mauensee",
+    "image": "ZS_Mauensee_267x200.jpg",
+    "lng": 8.06181,
+    "lat": 47.175965,
+    "type": "ZollmessStation"
+  },
+  {
+    "title": "Staffelbach",
+    "image": "ZS_Staffelbach.jpg",
+    "lng": 8.055542,
+    "lat": 47.281457,
+    "type": "ZollmessStation"
+  },
+  {
+    "title": "Däniken",
+    "image": "ZS_Daeniken.jpg",
+    "lng": 7.978457,
+    "lat": 47.340978,
+    "type": "ZollmessStation"
+  },
+  {
+    "title": "Zuzgen",
+    "image": "ZS_Zuzgen.jpg",
+    "lng": 7.882662,
+    "lat": 47.514866,
+    "type": "ZollmessStation"
+  },
+  {
+    "title": "Zeinigen",
+    "image": "ZS_Zeinigen.jpg",
+    "lng": 7.896037,
+    "lat": 47.550466,
+    "type": "ZollmessStation"
+  },
+  {
+    "title": "Steinhaus",
+    "image": "DRM_ELR_Steinhaus.jpg",
+    "lng": 8.180736,
+    "lat": 46.424884,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Naters",
+    "image": "DRM_ELR_Naters.jpg",
+    "lng": 7.978537,
+    "lat": 46.318448,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Gamsen",
+    "image": "DRM_ELR_Gamsen.jpg",
+    "lng": 7.945721,
+    "lat": 46.306689,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Visp",
+    "image": "DRM_ELR_Visp.jpg",
+    "lng": 7.879664,
+    "lat": 46.301758,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Niedergesteln",
+    "image": "DRM_ELR_Niedergesteln.jpg",
+    "lng": 7.790038,
+    "lat": 46.302176,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Steg",
+    "image": "DRM_ELR_Steg.jpg",
+    "lng": 7.765765,
+    "lat": 46.306295,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Chippis",
+    "image": "DRM_ELR_Chippis.jpg",
+    "lng": 7.548159,
+    "lat": 46.284727,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Sierre West",
+    "image": "DRM_ELR_Sierre.jpg",
+    "lng": 7.515337349,
+    "lat": 46.276118,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Sion",
+    "image": "DRM_ELR_Sion.jpg",
+    "lng": 7.368181,
+    "lat": 46.22625,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Aproz",
+    "image": "DRM_ELR_Aproz.jpg",
+    "lng": 7.320377,
+    "lat": 46.209628,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Chamoson",
+    "image": "DRM_ELR_Chamoson.jpg",
+    "lng": 7.231777,
+    "lat": 46.179436,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Martigny",
+    "image": "DRM_ELR_Martigny.jpg",
+    "lng": 7.079992,
+    "lat": 46.121637,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "St. Maurice",
+    "image": "DRM_ELR_StMaruice.jpg",
+    "lng": 7.018345,
+    "lat": 46.201436,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Schlieren",
+    "image": "DRM_ELO_Schlieren.jpg",
+    "lng": 8.466519,
+    "lat": 47.400755,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Urdorf",
+    "image": "DRM_ELO_Urdorf.jpg",
+    "lng": 8.428477,
+    "lat": 47.368917,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Bellikon",
+    "image": "DRM_ELO_Bellikon.jpg",
+    "lng": 8.350429,
+    "lat": 47.378638,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Villmergen",
+    "image": "DRM_ELO_Villmergen.jpg",
+    "lng": 8.2313,
+    "lat": 47.356517,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Seon",
+    "image": "DRM_ELO_Seon.jpg",
+    "lng": 8.169497,
+    "lat": 47.335652,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Unterkulm",
+    "image": "DRM_ELO_Unterkulm.jpg",
+    "lng": 8.11108,
+    "lat": 47.325638,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Wikon",
+    "image": "DRM_ELW_Wikon.jpg",
+    "lng": 7.96456,
+    "lat": 47.255321,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Brittnau",
+    "image": "DRM_ELW_Brittnau.jpg",
+    "lng": 7.933399,
+    "lat": 47.247789,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "St. Urban",
+    "image": "DRM_ELW_StUrban.jpg",
+    "lng": 7.841812,
+    "lat": 47.22926,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Dennli",
+    "image": "DRM_ELW_Dennli.jpg",
+    "lng": 7.78282,
+    "lat": 47.200839,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Thunstetten",
+    "image": "DRM_ELW_Thunstetten.jpg",
+    "lng": 7.748224,
+    "lat": 47.189486,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Herzogenbuchsee",
+    "image": "DRM_ELW_Herzogenbuchsee.jpg",
+    "lng": 7.718521,
+    "lat": 47.18372,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Altwiden",
+    "image": "DRM_ELW_Altwiden.jpg",
+    "lng": 7.55716,
+    "lat": 47.09958,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Mülchi",
+    "image": "DRM_ELW_Muelchi.jpg",
+    "lng": 7.471776,
+    "lat": 47.106936,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Buchi",
+    "image": "DRM_ELW_Buchi.jpg",
+    "lng": 7.457741,
+    "lat": 47.134345,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Spitzhof",
+    "image": "DRM_ELZ_Spitzhof.jpg",
+    "lng": 8.213966,
+    "lat": 47.063794,
+    "type": "druckreduzierStation"
+  },
+  {
+    "title": "Oltingue",
+    "lng": 7.4294909834861755,
+    "lat": 47.492355799268424,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Schönenbuch",
+    "lng": 7.50737227499485,
+    "lat": 47.54488768046326,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Rc basel",
+    "lng": 7.650519087910652,
+    "lat": 47.595860996326145,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Wallbach",
+    "lng": 7.897619605064392,
+    "lat": 47.58426950695533,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Fallentor",
+    "lng": 8.717203438282013,
+    "lat": 47.73979234680097,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Kreuzlingen",
+    "lng": 9.179571,
+    "lat": 47.661246,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Höchst",
+    "lng": 9.6554696559906,
+    "lat": 47.45065548245154,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Trübbach",
+    "lng": 9.47645902633667,
+    "lat": 47.0481072697322,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Genestrerio",
+    "lng": 8.95106390118599,
+    "lat": 45.843382827751356,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "La Louvière",
+    "lng": 6.264899969100952,
+    "lat": 46.21311920320602,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "La Cure",
+    "lng": 6.075773388147354,
+    "lat": 46.45700685656447,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "St. Julien Bardonnex",
+    "lng": 6.10539436340332,
+    "lat": 46.14392361740514,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "St. Julien Bardonnex",
+    "lng": 6.10539436340332,
+    "lat": 46.14392361740514,
+    "type": "Einspeisepunkt"
+  },
+  {
+    "title": "Griespass",
+    "lng": 8.382385969161987,
+    "lat": 46.45160740420388,
+    "type": "Einspeisepunkt"
+  }
+]
